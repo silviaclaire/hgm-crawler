@@ -1,4 +1,4 @@
-# hgm_crawler
+# hgm-crawler
 
 A little web crawler for HGM
 
